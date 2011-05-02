@@ -8,8 +8,6 @@ I use the [Symfony Forms] (http://symfony.com/doc/2.0/book/forms.html) documenta
 SETUP
 =====
 
-You need to copy [Symfony/Component/Form] (https://github.com/symfony/symfony/tree/master/src/Symfony/Component/Form) because [Symfony/Form] (https://github.com/symfony/Form) repo is not up to date and we get a solution for that.
-
 All other source code needed are added with <pre><code>git add submodule</code></pre>, just run <pre><code>git submodule update</code></pre> to load all dependencies.
 
 I will update this app with the ValidationExtension when it works for me.
